@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tim, welcome to my little corner of GitHub. I'm glad that you stopped by. 
+
 <!--
 **Timthreetwelve/Timthreetwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
