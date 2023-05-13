@@ -2,6 +2,8 @@
 
 I'm Tim, welcome to my little corner of GitHub. I'm glad that you stopped by. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Timthreetwelve/Timthreetwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
