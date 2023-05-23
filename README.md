@@ -2,9 +2,13 @@
 
 I'm Tim, welcome to my little corner of GitHub. I'm glad that you stopped by. 
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs&rank_icon=github )](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs&rank_icon=github )]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Timthreetwelve&theme=transparent&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timthreetwelve&theme=transparent&card_width=450)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Timthreetwelve&langs_count=5&theme=transparent&card_width=450&layout=compact&hide=c%2B%2B)]()
+
+
 <!--
 **Timthreetwelve/Timthreetwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
