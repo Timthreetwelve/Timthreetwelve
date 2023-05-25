@@ -8,6 +8,20 @@ I build apps for myself. I publish some of them here on GitHub in hopes that som
 
 There are no guarantees that anything you find here will work in your environment. I'll try to offer support where I can and will read any requests for enhancements. I'll do that until it's no longer fun or it feels like a job.
 
+```C#
+public class Hobby
+{
+    public void BuildWindowsApps()
+    {
+        while (fun == true && feelsLikeAJob == false)
+        {
+            KeepDoingThis();
+        }
+        TrySomethingElse();
+    }
+}
+```
+
 #### Here's some stats that may or may not be relevant ####
 
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs&rank_icon=github )]()
