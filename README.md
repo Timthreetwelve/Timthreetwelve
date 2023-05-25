@@ -2,9 +2,9 @@
 
 I'm **Tim**, welcome to my little corner of GitHub. I'm glad that you stopped by. 
 
-I'm a retired mainframe system administrator. I did that for 25 years and now I like to build Windows application for fun. I like to challenge myself to learn something new. 
+I'm a retired mainframe system administrator. I did that for 25 years and now I like to build Windows applications for fun. I like to challenge myself to learn something new. 
 
-I build apps for myself. I put some of them here on GitHub in hopes that someone can find some use for one or two of them. 
+I build apps for myself. I publish some of them here on GitHub in hopes that someone can find some use for one or two of them. 
 
 There are no guarantees that anything you find here will work in your environment. I'll try to offer support where I can and will read any requests for enhancements. I'll do that until it's no longer fun or it feels like a job.
 
