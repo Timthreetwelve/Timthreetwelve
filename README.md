@@ -12,11 +12,9 @@ There are no guarantees that anything you find here will work in your environmen
 
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs&rank_icon=github )]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Timthreetwelve&theme=transparent&card_width=450)]()
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Timthreetwelve&langs_count=5&theme=transparent&card_width=450&layout=compact&hide=c%2B%2B)]()
 
-This is **Barry** and he is a very good dog!
+This is **Barry** and he is a very good boy!
 
 <img src="https://github.com/Timthreetwelve/Timthreetwelve/blob/main/image000000.jpg" width="300" alt="This is Barry" >
 <!--
