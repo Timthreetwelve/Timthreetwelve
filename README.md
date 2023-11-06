@@ -6,7 +6,7 @@ I'm a retired mainframe system administrator. I did that for 25 years and now I 
 
 I build apps for myself. If I see a need, a problem to solve, or have an idea of how to make something easier, I challenge myself to build an app to satisfy the need or fix the problem. I publish some of the ones that work here on GitHub in hopes that someone might find them useful. 
 
-There are no guarantees that anything you find here will work in your environment. I'll try to offer support where I can. Although there is no promise that I will agree, I will read any requests for enhancements. I'll do that until it's no longer fun or it feels like a job.
+There are no guarantees that anything you find here will work in your environment. I'll try to offer support where I can. Although there is no promise that I will agree, I will read any requests for enhancements. I'll do that until it's no longer fun or it **feels like a job**.
 
 #### Here's some stats ####
 
