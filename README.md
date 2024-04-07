@@ -8,6 +8,8 @@ I build apps for myself. If I see a need, a problem to solve, or have an idea of
 
 There are no guarantees that anything you find here will work in your environment. I'll try to offer support where I can. Although there is no promise that I will agree, I will read any requests for enhancements. I'll do that until it's no longer fun or it **feels like a job**.
 
+Be sure to check out the pinned repositories below. 👇🏻
+
 #### Here's some stats ####
 
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs&rank_icon=github )]()
