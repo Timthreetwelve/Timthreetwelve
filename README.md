@@ -16,9 +16,9 @@ Be sure to check out the pinned repositories below. 👇🏻
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Timthreetwelve&langs_count=5&theme=transparent&card_width=450&layout=compact&hide=c%2B%2B)]()
 
-This is **Barry** and he is a very good boy!
+This is **Max**!
 
-<img src="https://github.com/Timthreetwelve/Timthreetwelve/blob/main/image000000.jpg" width="300" alt="This is Barry" >
+<img src="https://github.com/Timthreetwelve/Timthreetwelve/blob/main/IMG_2812.png" width="400" alt="Say hello to Max" >
 <!--
 **Timthreetwelve/Timthreetwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
