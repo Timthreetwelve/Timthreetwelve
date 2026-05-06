@@ -10,12 +10,6 @@ There are no guarantees that anything you find here will work in your environmen
 
 Be sure to check out the pinned repositories below. 👇🏻
 
-#### Here's some stats ####
-
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timthreetwelve&theme=transparent&hide=contribs&rank_icon=github )]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Timthreetwelve&langs_count=5&theme=transparent&card_width=450&layout=compact&hide=c%2B%2B)]()
-
 #### This is **Max**! ####
 
 <img src="https://github.com/Timthreetwelve/Timthreetwelve/blob/main/IMG_2812.png" width="400" alt="Say hello to Max" >
