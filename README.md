@@ -2,17 +2,20 @@
 
 I'm **Tim**, welcome to my little corner of GitHub. I'm glad that you stopped by. 
 
-I'm a retired mainframe system administrator. I did that for 25 years and now I like to build Windows applications for fun. I like to challenge myself to learn something new. 
+I am a retired mainframe system administrator with 25 years of experience, and now I enjoy creating Windows applications as a hobby. I like to push myself by learning new things.
 
-If I see a need, a problem to solve, or have an idea of how to make something easier, I challenge myself to build an app to satisfy the need or fix the problem. I publish some of the ones that work here on GitHub in hopes that someone might find them useful. 
+I am an amateur developer, not a professional software engineer. My skills are limited, but I am eager to learn and improve. I appreciate constructive feedback and suggestions, provided they are respectful and thoughtful. Having been involved in this for a long time, I have little patience for users who raise overly trivial issues.
 
-There are no guarantees that anything you find here will work in your environment. I'll try to offer support where I can. Although there is no promise that I will agree, I will read any requests for enhancements. I'll do that until it's no longer fun or it **feels like a job**.
+There is no guarantee that anything here will function perfectly in your setup. I will try to offer support when possible. While I may not always agree, I am open to reading enhancement requests. I will continue doing this until it stops being enjoyable or starts to _feel like work_.
+
+If you download any of my apps and find them helpful, please think about giving them a ⭐. There are no links for monetary donations in my repositories, but if you want to contribute, please consider donating blood or adopting a pet that might otherwise be put down.
 
 Be sure to check out the pinned repositories below. 👇🏻
 
 #### This is **Max**! ####
 
 <img src="https://github.com/Timthreetwelve/Timthreetwelve/blob/main/IMG_2812.png" width="400" alt="Say hello to Max" >
+Max is my part-time coding partner. 
 <!--
 **Timthreetwelve/Timthreetwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
