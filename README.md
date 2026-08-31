@@ -1,4 +1,4 @@
-Hey there, I’m Tim 👋 Welcome to my tiny GitHub hideout! I’m genuinely happy you decided to drop in.
+Hey there, I’m Tim.👋 Welcome to my tiny GitHub hideout! I’m genuinely happy you decided to drop in.
 
 After spending 25 years wrangling mainframes as a system administrator (yes, those ancient beasts), I’ve now retired and taken up the noble hobby of crafting Windows applications. I like to keep my brain buzzing by diving into new challenges and learning fresh skills. Better than telling the kids to get off my lawn, right?
 
